@@ -1,0 +1,71 @@
+:root{
+    --primary: #b59f8b;
+    --secondary: #b0b5db;
+    --light: #959db7;
+    --dark: #42444a;
+}
+
+
+
+
+*{
+
+    padding: 0%;
+    margin: 0%;
+}
+
+section .comments {
+    margin-bottom: 5%;
+}
+
+p{
+    color: #010207;
+    font-size: 30px;
+}
+
+h3{
+    color: rgb(169, 169, 192);
+    text-align: left;
+}
+.testimonaials{
+
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    
+
+
+}
+
+
+.testimonial-col{
+
+   
+   
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+    background: #d1d9f0;
+    padding: 2%;
+    cursor: pointer;
+    display: flex;
+
+
+}
+
+
+.testimonial-col img{
+
+    height: 40px;
+    margin-left: 5%;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+
+
+
+h1{
+    margin-top: 5%;
+    color: #afb6f3;
+    font-size: 45px;
+}
